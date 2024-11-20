@@ -1,4 +1,4 @@
-# PostgeSQL-Specialization
+# PostgeSQL Specialization
 **Conceitos e Prática**
 
 A especialização oferececida pela University of Michigan me possibilitou aprofundar meus conhecimentos para melhores consultas e compreensão de bancos de dados usando PostgreSQL.
